@@ -47,4 +47,4 @@ const Signup: React.FC = () => {
   );
 };
 
-export default Login;
+export default Signup;
